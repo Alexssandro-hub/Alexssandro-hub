@@ -1,4 +1,4 @@
-### Hi there 👋
+## Saaaalve! Eu sou Alexssandro. 👋
 
 <!--
 **Alexssandro-hub/Alexssandro-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 Aprendendo Programação Orientada a Objetos, Banco de Dados e AzureDevOps ...
 -->
 
-## Saaaalve! Eu sou Alexssandro. 
+
  <div>
   <a href="https://github.com/Alexssandro-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexssandro-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
