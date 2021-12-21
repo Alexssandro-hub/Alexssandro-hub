@@ -35,4 +35,6 @@ Here are some ideas to get you started:
   ##
   
 </div>   
+ 
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 
