@@ -25,9 +25,4 @@
 </div>   
  
  ## Apenas piadas aleatórias haha 😂👻
- ##
  ![Jokes Card](https://readme-jokes.vercel.app/api)
-
- ## Contribuidores de código aberto 👨‍💻
- ##
- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name)
