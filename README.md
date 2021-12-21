@@ -1,15 +1,5 @@
 ## Saaaalve! Eu sou Alexssandro. 👋
 
-<!--
-**Alexssandro-hub/Alexssandro-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente trabalho com desenvolvimento .Net(Entity Framework)...
-- 🌱 Aprendendo Programação Orientada a Objetos, Banco de Dados e AzureDevOps ...
--->
-
-
  <div>
   <a href="https://github.com/Alexssandro-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexssandro-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -30,12 +20,14 @@ Here are some ideas to get you started:
  <div> 
   <a href="https://instagram.com/alekis.rt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "alexssandro.rodrigues.tabosa08@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexssandro-rodrigues-8b546a198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-  ##
-  
+  <a href="https://www.linkedin.com/in/alexssandro-rodrigues-8b546a198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  ##  
 </div>   
  
- ## Apenas piadas aleatórias haha. 😂👻
+ ## Apenas piadas aleatórias haha 😂👻
+ ##
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+ ## Contribuidores de código aberto 👨‍💻
+ ##
+ ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name)
