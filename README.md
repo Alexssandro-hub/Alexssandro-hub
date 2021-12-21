@@ -36,5 +36,6 @@ Here are some ideas to get you started:
   
 </div>   
  
+ ## Apenas piadas aleatórias haha. 😂👻
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
