@@ -1,4 +1,4 @@
-## Saaaalve! Eu sou Alexssandro. 👋
+## Saaaalve! Eu sou Alexssandro. Vamos bater um papo sobre tecnologia? Siga-me. #PartiuCodar. 👋👨‍💻
 
  <div>
   <a href="https://github.com/Alexssandro-hub">
