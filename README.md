@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/Alexssandro-hub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexssandro-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssandro-hub&layout=compact&langs_count=7&theme=night_owl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexssandro-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexssandro-hub&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
  ##
