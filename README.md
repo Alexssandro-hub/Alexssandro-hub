@@ -1,4 +1,4 @@
-## Saaaalve! Eu sou Alexssandro. Vamos bater um papo sobre tecnologia? Siga-me. #PartiuCodar. 👋👨‍💻
+## Eu sou Alexssandro. 👋👨‍💻
 
  ##
  ## MY STACK OF TECHNOLOGIES
