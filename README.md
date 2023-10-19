@@ -1,6 +1,5 @@
-## Eu sou Alexssandro. 👋👨‍💻
+ ## Eu sou Alexssandro. 👋👨‍💻
 
- ##
  ## MY STACK OF TECHNOLOGIES
  
 <div style="display: inline_block"><br>
@@ -32,8 +31,5 @@
  <div> 
   <a href="https://instagram.com/alekis.rt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "alexssandro.rodrigues.tabosa08@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexssandro-rodrigues-8b546a198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alexssandro-tabosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>   
- 
- ## RANDOM JOKES 😂👻
- ![Jokes Card](https://readme-jokes.vercel.app/api)
